@@ -20,7 +20,7 @@ mesh: {
 iconColor: ffe06f
 bloom: true
 solarSystem: nexus
-parent: alpha
+parent: "alpha"
 orbitRadius: 300
 accessible: true
 visible: true
