@@ -1,5 +1,5 @@
 name: alpha
-parent: "nexus"
+parent: nexus
 orbitRadius: 0       
 orbitTime: 0
 localizedName: Alpha
