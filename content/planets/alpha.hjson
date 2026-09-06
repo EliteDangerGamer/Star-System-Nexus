@@ -9,7 +9,7 @@ hasAtmosphere: true
 atmosphereColor: FF5500
 
 sectorSize: 0
-startSector: 12
+startSector: 0
 radius: 2
 
 orbitRadius: 10000    
