@@ -20,7 +20,6 @@ mesh: [
   octaves: 3
 }
 {
-      type: MatMesh
       mesh: {
         type: NoiseMesh
         planet: alpha
@@ -39,7 +38,6 @@ mesh: [
       ]
     }
   ]
-]
     
 rules: {
   defaultTeam: sharded
