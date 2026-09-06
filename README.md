@@ -1,11 +1,15 @@
-# Star system αlpha
+# System name
 ## Authors: EliteDangerGamer, LP0818, CoLuSo2013
 
-A newly discovered star system, consisting of a black hole, a neutron star, and a standard star.
-Each star has 3 planets, each planet has its own nature, or lack thereof.
-Some planets have no surface, and a surface must be added, others are frozen wastelands where the sun is dimmer than the neighbor.
+System name is a trinary star system, consisting of a black hole, Neutron star, and standard star, they each are host to a number of celestial bodies.
 
-This is designed to be a long campaign, as there are 6 planets, as well as the capturable star and black hole
+Alpha (α) is the black hole at the center, and Beta and Gamma orbit it, it has no planets, but could be captured if you're brave enough
+
+Beta (β) is the G-Type star orbiting Alpha, it has three planets and an orbital satelite, a lush planet with a moon, where nature poses a bigger threat than the enemies; a world made of water, with occasional islands; and a gas giant, where you have to build your land.
+
+Gamma (γ) is the Neutron star orbiting Alpha, it has a planet that once had life, but got too close to the star; A desert that is covered with lightning storms, with a moon that has ruins of technology to capture it; and a frozen wasteland, where the star is dimmer than Beta, and the only land is the occasional glacier.
+
+This is going to be a long mod, expect a long playthrough.
 
 (THIS IS WIP AND SUBJECT TO CHANGE, ESPECIALLY IF SOMETHING TURNS OUT TO BE IMPOSSIBLE)
 
