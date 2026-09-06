@@ -4,16 +4,16 @@ mesh: {
     divisions: 3
     octaves: 4
     persistence: 0.6
-    scl: 1
+    scl: 0
     pow: 1
     mag: 0.5
     colorScale: 1
     colors: [
-        000000
+        00000000
     ]
 }
 iconColor: 000000
-visible: false
+visible: true
 bloom: true
 solarSystem: nexus
 orbitRadius: 0
