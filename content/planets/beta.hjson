@@ -22,3 +22,4 @@ bloom: true
 solarSystem: nexus
 parent: alpha
 orbitRadius: 1200
+hasAtmosphere: false
