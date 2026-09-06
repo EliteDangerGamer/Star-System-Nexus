@@ -24,18 +24,20 @@ rules: {
   enemyTeam: "crux"
 }
 
-mesh: [
-  {
-    type: "NoiseMesh"
-    planet: "alpha"
-    seed: 12345
-    divisions: 4
-    color1: "010101"
-    color2: "010101"
-    radius: 1
-    octaves: 3
-  }
-]
+mesh: {
+    type: SunMesh
+    divisions: 3
+    octaves: 4
+    persistence: 0.6
+    scl: 1
+    pow: 1
+    mag: 0.5
+    colorScale: 1
+    colors: [
+        000000
+        010101
+        020202
+    ]
 
 cloudMesh: [
   {
