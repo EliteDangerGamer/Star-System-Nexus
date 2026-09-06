@@ -54,3 +54,4 @@ cloudMesh: [
 ]
 atmosphereColor: FF5500
 bloom: true
+solarSystem: nexus
