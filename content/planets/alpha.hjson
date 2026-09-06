@@ -6,7 +6,7 @@ iconColor: "000000"
 accessible: true
 alwaysUnlocked: true
 hasAtmosphere: true
-atmosphereColor: "FF5500"
+atmosphereColor: FF5500
 
 sectorSize: 3
 startSector: 12
@@ -31,8 +31,8 @@ mesh: [
     planet: "alpha"
     seed: 12345
     divisions: 4
-    color1: "000000"
-    color2: "101010"
+    color1: "010101"
+    color2: "010101"
     radius: 2
     octaves: 3
   }
@@ -43,12 +43,13 @@ cloudMesh: [
     type: HexSkyMesh
     seed: 11
     speed: 0.15
-    radius: 0.13
+    radius: 0.4
     divisions: 5
-    color: 00000000
+    color: FF550001
     octaves: 2
     persistence: 0.45
     scale: 0.9
     thresh: 0.38
   }
 ]
+atmosphereColor: FF5500
