@@ -5,7 +5,7 @@ orbitTime: 0
 localizedName: Alpha
 generator: planet
 sectorSize: 3
-radius: 1.1
+radius: 2
 accessible: true
 startSector: 12
 mesh: [
