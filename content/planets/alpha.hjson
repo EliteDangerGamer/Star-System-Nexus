@@ -46,12 +46,11 @@ mesh: [
       color1: db904e
       color2: db904e
     }
-    # Matrix transformations: Scale the Z axis to 0.05 to flatten it into a disc
     mat: [
-      1, 0, 0, 0
-      0, 1, 0, 0
-      0, 0, 0.05, 0
-      0, 0, 0, 1
+      1, 0, 0, 0,
+      0, 1, 0, 0,
+      0, 0, 0.05, 0,
+      0, 0, 0, 1,
     ]
   }
 ]
