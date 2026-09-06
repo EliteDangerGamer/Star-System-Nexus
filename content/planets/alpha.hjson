@@ -53,3 +53,4 @@ cloudMesh: [
 ]
 bloom: true
 solarSystem: nexus
+lightSrc: 0.1
