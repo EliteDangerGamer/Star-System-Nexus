@@ -12,7 +12,7 @@ sectorSize: 3
 startSector: 12
 radius: 2
 
-orbitRadius: 0       
+orbitRadius: 10000    
 orbitTime: 0
 
 defaultCore: "core-origin"
