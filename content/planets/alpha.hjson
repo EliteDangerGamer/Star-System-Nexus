@@ -13,7 +13,7 @@ startSector: 12
 radius: 2
 
 orbitRadius: 10000    
-orbitTime: 0
+orbitTime: 10000
 
 defaultCore: "core-origin"
 allowLaunchSchematics: true
