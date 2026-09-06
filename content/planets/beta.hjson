@@ -19,9 +19,9 @@ mesh: {
 }
 iconColor: ffe06f
 bloom: true
-solarSystem: nexus
+solarSystem: "nexus"
 parent: "alpha"
-orbitRadius: 300
+orbitRadius: 3000
 accessible: true
 visible: true
 alwaysUnlocked: false
