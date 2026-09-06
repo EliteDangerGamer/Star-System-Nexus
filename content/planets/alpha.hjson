@@ -1,12 +1,12 @@
-name: alpha
-localizedName: Alpha
-parent: nexus
-generator: planet
+name: "alpha"
+localizedName: "Alpha"
+parent: "nexus"
+generator: "planet"
 iconColor: "000000"
 accessible: true
 alwaysUnlocked: true
 hasAtmosphere: true
-atmosphereColor: FF5500
+atmosphereColor: "FF5500"
 
 sectorSize: 3
 startSector: 12
@@ -15,25 +15,25 @@ radius: 2
 orbitRadius: 0       
 orbitTime: 0
 
-defaultCore: core-origin
+defaultCore: "core-origin"
 allowLaunchSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 
 rules: {
-  defaultTeam: sharded
-  enemyTeam: crux
+  defaultTeam: "sharded"
+  enemyTeam: "crux"
 }
 
 mesh: [
   {
-    type: NoiseMesh
-    planet: alpha
+    type: "NoiseMesh"
+    planet: "alpha"
     seed: 12345
     divisions: 4
     color1: "000000"
     color2: "000000"
     radius: 2
     octaves: 3
-}
+  }
 ]
