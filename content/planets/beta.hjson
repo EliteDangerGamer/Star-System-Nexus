@@ -28,4 +28,4 @@ visible: true
 alwaysUnlocked: true
 sectorSize: 0
 startSector: 0
-radius: 4
+radius: 45
