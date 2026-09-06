@@ -53,5 +53,4 @@ cloudMesh: [
 ]
 bloom: false
 solarSystem: nexus
-lightSrc: 0.1
 orbitSpacing: 8
