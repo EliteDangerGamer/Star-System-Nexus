@@ -1,0 +1,43 @@
+type: planet
+localizedName: Alpha
+parent: null
+solarSystem: null
+visible: true
+hasAtmosphere: false
+mesh: 
+[
+{
+  type: NoiseMesh
+  planet: terra
+  seed: 12345
+  divisions: 4
+  color1: 4FAE19   
+  color2: 2E8B57
+  radius: 1.1
+  octaves: 3
+}
+]
+}
+rings: [
+  {
+    type: SunRings
+    rotation: 55
+    radius: 4.5
+    width: 0.8
+    color: ffffffb0
+  },
+  {
+    type: SunRings
+    rotation: 40
+    radius: 5.3
+    width: 1.5
+    color: ffaa00cc
+  },
+  {
+    type: SunRings
+    rotation: 25
+    radius: 6.8
+    width: 2.2
+    color: ff330066
+  }
+]
