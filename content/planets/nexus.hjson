@@ -16,6 +16,7 @@ iconColor: 000000
 visible: true
 bloom: true
 solarSystem: nexus
-orbitRadius: 0
+orbitRadius: 10000
 accessible: false
 orbitSpacing: 8
+parent: sun
