@@ -1,4 +1,4 @@
-# Star system Alpha
+# Star system αlpha
 ## Authors: EliteDangerGamer, LP0818, CoLuSo2013
 
 A newly discovered star system, consisting of a black hole, a neutron star, and a standard star.
