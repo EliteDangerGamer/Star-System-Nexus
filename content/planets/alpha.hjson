@@ -45,7 +45,7 @@ cloudMesh: [
     speed: 0.15
     radius: 0.4
     divisions: 5
-    color: FF5500FF
+    color: FF550000
     octaves: 2
     persistence: 0.45
     scale: 0.9
@@ -53,3 +53,4 @@ cloudMesh: [
   }
 ]
 atmosphereColor: FF5500
+bloom: true
