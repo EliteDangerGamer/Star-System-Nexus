@@ -45,7 +45,7 @@ cloudMesh: [
     speed: 0.15
     radius: 0.4
     divisions: 5
-    color: FF550001
+    color: FF5500FF
     octaves: 2
     persistence: 0.45
     scale: 0.9
