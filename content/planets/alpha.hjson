@@ -37,8 +37,9 @@ mesh: {
         000000
         010101
         020202
-    ]
 
+    ]
+}
 cloudMesh: [
   {
     type: HexSkyMesh
@@ -55,5 +56,3 @@ cloudMesh: [
 ]
 bloom: false
 solarSystem: "nexus"
-orbitSpacing: 8
-}
