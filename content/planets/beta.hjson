@@ -29,3 +29,4 @@ alwaysUnlocked: true
 sectorSize: 0
 startSector: 0
 radius: 4
+lightSrc: 1.0
