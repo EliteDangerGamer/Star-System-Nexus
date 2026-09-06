@@ -8,7 +8,7 @@ alwaysUnlocked: true
 hasAtmosphere: true
 atmosphereColor: FF5500
 
-sectorSize: 0
+sectorSize: 0.01
 startSector: 0
 radius: 1
 
