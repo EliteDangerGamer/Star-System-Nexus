@@ -21,4 +21,4 @@ iconColor: ffe06f
 bloom: true
 solarSystem: nexus
 parent: alpha
-orbitRadius: 12000
+orbitRadius: 1200
