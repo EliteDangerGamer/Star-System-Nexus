@@ -1,7 +1,7 @@
-# System name
+# Star System Nexus
 ## Authors: EliteDangerGamer, LP0818, CoLuSo2013
 
-System name is a trinary star system, consisting of a black hole, Neutron star, and standard star, they each are host to a number of celestial bodies.
+Nexus is a trinary star system, consisting of a black hole, Neutron star, and standard star, they each are host to a number of celestial bodies.
 
 Alpha (α) is the black hole at the center, and Beta and Gamma orbit it, it has no planets, but could be captured if you're brave enough
 
