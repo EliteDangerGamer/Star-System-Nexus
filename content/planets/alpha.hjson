@@ -32,7 +32,7 @@ mesh: [
     seed: 12345
     divisions: 4
     color1: "000000"
-    color2: "000000"
+    color2: "101010"
     radius: 2
     octaves: 3
   }
