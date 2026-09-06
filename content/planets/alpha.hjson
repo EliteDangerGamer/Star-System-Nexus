@@ -1,7 +1,5 @@
 type: planet
 localizedName: Alpha
-parent: null
-solarSystem: null
 visible: true
 hasAtmosphere: false
 accessible: true
