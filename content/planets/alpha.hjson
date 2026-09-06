@@ -6,6 +6,7 @@ visible: true
 hasAtmosphere: false
 accessible: true
 alwaysUnlocked: true
+iconColor: 000000
 mesh: 
 [
 {
