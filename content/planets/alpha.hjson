@@ -8,7 +8,7 @@ alwaysUnlocked: true
 hasAtmosphere: true
 atmosphereColor: FF5500
 
-sectorSize: 3
+sectorSize: 0
 startSector: 12
 radius: 2
 
@@ -18,7 +18,6 @@ orbitTime: 10000
 defaultCore: "core-origin"
 allowLaunchSchematics: true
 clearSectorOnLose: true
-allowLaunchToNumbered: true
 
 rules: {
   defaultTeam: "sharded"
@@ -52,6 +51,5 @@ cloudMesh: [
     thresh: 0.38
   }
 ]
-atmosphereColor: FF5500
 bloom: true
 solarSystem: nexus
