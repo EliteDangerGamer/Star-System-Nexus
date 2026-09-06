@@ -18,3 +18,4 @@ bloom: true
 solarSystem: nexus
 orbitRadius: 0
 accessible: false
+orbitSpacing: 8
