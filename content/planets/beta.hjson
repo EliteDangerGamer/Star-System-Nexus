@@ -26,3 +26,6 @@ hasAtmosphere: false
 accessible: true
 visible: true
 alwaysUnlocked: true
+sectorSize: 0
+startSector: 0
+radius: 4
