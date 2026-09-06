@@ -51,6 +51,7 @@ cloudMesh: [
     thresh: 0.38
   }
 ]
-bloom: true
+bloom: false
 solarSystem: nexus
 lightSrc: 0.1
+orbitSpacing: 8
