@@ -36,16 +36,13 @@ mesh: [
     octaves: 3
   }
   {
-    type: MatMesh
-    mesh: {
-      type: NoiseMesh
+      type: MatMesh
       planet: alpha
       divisions: 3
       seed: 99
       radius: 6.0 
       color1: db904e
       color2: db904e
-    }
     mat: [
       1, 0, 0, 0,
       0, 1, 0, 0,
