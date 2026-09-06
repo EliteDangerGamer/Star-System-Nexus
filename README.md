@@ -52,3 +52,8 @@ Heavy Water - One made from 100 water, doesn’t need a lot
 Fusion Fuel - Heavy water + hydrogen(used in fusion reactor which needs Fusion Fuel, Pressurized water, Liquid Nitrogen, and Thermite)
 Matter - Any basic resource + lots of power, Power + carbon nanotube + uranium
 Antimatter - Power + carbon nanotube + uranium
+
+
+Inspirations:
+Factorio Space age, primarily aquilo and fulgora
+Asthosus, the desert planet
