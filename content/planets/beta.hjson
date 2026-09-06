@@ -23,3 +23,6 @@ solarSystem: nexus
 parent: alpha
 orbitRadius: 1200
 hasAtmosphere: false
+accessible: true
+visible: true
+alwaysUnlocked: true
