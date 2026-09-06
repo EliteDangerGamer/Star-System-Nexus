@@ -19,7 +19,6 @@ mesh:
   octaves: 3
 }
 ]
-}
 rings: [
   {
     type: SunRings
