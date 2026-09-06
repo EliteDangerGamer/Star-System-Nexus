@@ -19,3 +19,4 @@ solarSystem: nexus
 orbitRadius: 1000
 accessible: false
 orbitSpacing: 8
+visible: false
