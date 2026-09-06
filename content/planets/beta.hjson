@@ -21,7 +21,7 @@ iconColor: ffe06f
 bloom: true
 solarSystem: nexus
 parent: alpha
-orbitRadius: 100
+orbitRadius: 300
 accessible: true
 visible: true
 alwaysUnlocked: true
