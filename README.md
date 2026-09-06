@@ -1,11 +1,13 @@
-# Terra
+# Star system Alpha
 ## Authors: EliteDangerGamer, LP0818, CoLuSo2013
 
-Terra is a lush planet, teeming with life.
+A newly discovered star system, consisting of a black hole, a neutron star, and a standard star.
+Each star has 3 planets, each planet has its own nature, or lack thereof.
+Some planets have no surface, and a surface must be added, others are frozen wastelands where the sun is dimmer than the neighbor.
 
-still a WIP
+This is designed to be a long campaign, as there are 6 planets, as well as the capturable star and black hole
 
-if there is an issue please make a bug report!
+(THIS IS WIP AND SUBJECT TO CHANGE, ESPECIALLY IF SOMETHING TURNS OUT TO BE IMPOSSIBLE)
 
 Resources:
 Iron - Mined
