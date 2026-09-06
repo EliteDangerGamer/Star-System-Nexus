@@ -1,0 +1,24 @@
+localizedName: Beta
+mesh: {
+ # Mesh type. Self-explanatory.
+    type: SunMesh
+    divisions: 3
+    octaves: 4
+    persistence: 0.6
+    scl: 1
+    pow: 1
+    mag: 0.5
+    colorScale: 1
+    colors: [
+        ffe06f
+        ffe790
+        ffedae
+        fff8c8
+        ffe53b
+    ]
+}
+iconColor: ffe06f
+bloom: true
+solarSystem: nexus
+parent: alpha
+orbitRadius: 12000
