@@ -25,6 +25,6 @@ orbitRadius: 100
 accessible: true
 visible: true
 alwaysUnlocked: true
-sectorSize: 0
+sectorSize: 0.1
 startSector: 0
 radius: 5
