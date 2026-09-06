@@ -4,6 +4,8 @@ parent: null
 solarSystem: null
 visible: true
 hasAtmosphere: false
+accessible: true
+alwaysUnlocked: true
 mesh: 
 [
 {
