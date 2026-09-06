@@ -9,7 +9,7 @@ mesh: {
     mag: 0.5
     colorScale: 1
     colors: [
-        00000000
+        ffffff
     ]
 }
 iconColor: 000000
