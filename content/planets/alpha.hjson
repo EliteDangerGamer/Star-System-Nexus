@@ -10,7 +10,7 @@ atmosphereColor: FF5500
 
 sectorSize: 0.01
 startSector: 0
-radius: 1
+radius: 0.5
 
 orbitRadius: 1000
 orbitTime: 1000
