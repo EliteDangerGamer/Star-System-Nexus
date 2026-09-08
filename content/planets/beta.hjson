@@ -21,10 +21,9 @@ iconColor: ffe06f
 bloom: false 
 solarSystem: "nexus"
 parent: "alpha"
-orbitRadius: 300
 accessible: true
 visible: true
-alwaysUnlocked: false
+alwaysUnlocked: true
 sectorSize: 0.1
 startSector: 0
 radius: 35
