@@ -18,7 +18,7 @@ mesh: {
     ]
 }
 iconColor: ffe06f
-bloom: true
+bloom: false 
 solarSystem: "nexus"
 parent: "alpha"
 orbitRadius: 300
