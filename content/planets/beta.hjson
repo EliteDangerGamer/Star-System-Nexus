@@ -23,6 +23,7 @@ solarSystem: "nexus"
 parent: "alpha"
 accessible: true
 visible: true
+orbitRadius: 200
 alwaysUnlocked: true
 sectorSize: 0.1
 startSector: 0
