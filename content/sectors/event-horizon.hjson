@@ -10,8 +10,7 @@ core-origin
 description: "The most hostile enemy fortress in existence, orbiting the black hole Alpha, here they have everything, and there is no mercy here. This sector will challenge you, it will test your strategy, speed, and understanding of the game mechanics. Good luck."
 rules: {
   teams: {
-    # 2 is the Crux team ID
-    "2": {
+    "crux": {
       infiniteResources: true
       fillItems: true
     }
