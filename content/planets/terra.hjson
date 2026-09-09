@@ -1,5 +1,5 @@
 name: terra
-parent: "beta"
+parent: "sun"
 orbitRadius: 50       
 orbitTime: 12000    
 orbitOffset: 15            
@@ -85,4 +85,4 @@ allowLaunchSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
-solarSystem: nexus
+solarSystem: sun
