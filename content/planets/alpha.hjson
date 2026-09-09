@@ -12,8 +12,8 @@ sectorSize: 0
 startSector: 0
 radius: 0.5
 
-orbitRadius: 100000
-orbitTime: 100000000
+orbitRadius: 10000
+orbitTime: 10000000000
 
 defaultCore: "core-origin"
 allowLaunchSchematics: true
