@@ -34,12 +34,8 @@ mesh: {
     pow: 1
     mag: 0.5
     radius: 1.5
-    colors: [
-    "2b2b2b"
-    "1f1f1f"
-    "0f0f0f"
-
-    ]
+    color1: 010101
+    color2: 050505
 }
 solarSystem: sun
 visible: true
