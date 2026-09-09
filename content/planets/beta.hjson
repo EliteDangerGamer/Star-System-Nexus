@@ -20,7 +20,7 @@ mesh: {
 }
 iconColor: ffe06f
 bloom: false 
-solarSystem: "nexus"
+solarSystem: "sun"
 parent: "alpha"
 accessible: true
 visible: true
