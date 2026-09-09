@@ -2,6 +2,7 @@ localizedName: Beta
 mesh: {
  # Mesh type. Self-explanatory.
     type: SunMesh
+    planet: beta
     divisions: 3
     octaves: 4
     persistence: 0.6
