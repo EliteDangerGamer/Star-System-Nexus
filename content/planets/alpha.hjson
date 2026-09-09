@@ -33,7 +33,6 @@ mesh: {
     scl: 1
     pow: 1
     mag: 0.5
-    colorScale: 1
     radius: 1.2
     colors: [
     "2b2b2b"
