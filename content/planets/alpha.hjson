@@ -2,7 +2,7 @@ name: "alpha"
 localizedName: "Alpha"
 parent: "sun"
 generator: "planet"
-iconColor: "FF5500"
+iconColor: "A0C4FF"
 accessible: true
 alwaysUnlocked: true
 hasAtmosphere: true
