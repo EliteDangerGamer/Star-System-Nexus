@@ -25,7 +25,7 @@ rules: {
 }
 
 mesh: {
-    type: SunMesh
+    type: NoiseMesh
     divisions: 3
     planet: alpha
     octaves: 4
