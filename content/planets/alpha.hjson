@@ -41,20 +41,6 @@ mesh: {
 
     ]
 }
-cloudMesh: [
-  {
-    type: HexSkyMesh
-    seed: 11
-    speed: 0.15
-    radius: 0.4
-    divisions: 5
-    color: FF550000
-    octaves: 2
-    persistence: 0.45
-    scale: 0.9
-    thresh: 0.38
-  }
-]
 bloom: false
 solarSystem: sun
 visible: true
