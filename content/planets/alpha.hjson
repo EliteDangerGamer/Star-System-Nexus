@@ -35,9 +35,9 @@ mesh: {
     mag: 0.5
     colorScale: 1
     colors: [
-        000000
-        010101
-        020202
+    "2b2b2b"
+    "1f1f1f"
+    "0f0f0f"
 
     ]
 }
