@@ -10,7 +10,7 @@ atmosphereColor: FF5500
 
 sectorSize: 0
 startSector: 0
-radius: 1.45
+radius: 1.2
 
 orbitRadius: 10000
 orbitTime: 1000000
@@ -33,7 +33,7 @@ mesh: {
     scl: 1
     pow: 1
     mag: 0.5
-    radius: 1.5
+    radius: 1.15
     color1: 010101
     color2: 050505
 }
