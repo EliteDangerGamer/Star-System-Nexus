@@ -14,7 +14,7 @@ radius: 0.5
 
 orbitRadius: 1000000
 orbitTime: 10000000000
-drawOrbit = false
+drawOrbit: false
 defaultCore: core-origin
 allowLaunchSchematics: true
 clearSectorOnLose: true
