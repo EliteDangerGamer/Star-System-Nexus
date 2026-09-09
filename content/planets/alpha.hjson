@@ -12,8 +12,8 @@ sectorSize: 0
 startSector: 0
 radius: 0.5
 
-orbitRadius: 1000
-orbitTime: 1000
+orbitRadius: 1000000
+orbitTime: 10000000000000000
 
 defaultCore: "core-origin"
 allowLaunchSchematics: true
@@ -26,7 +26,7 @@ rules: {
 
 mesh: {
     type: NoiseMesh
-    divisions: 3
+    divisions: 4
     planet: alpha
     octaves: 4
     persistence: 0.6
