@@ -56,5 +56,5 @@ cloudMesh: [
   }
 ]
 bloom: false
-solarSystem: "nexus"
+solarSystem: sun
 visible: true
