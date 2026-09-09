@@ -57,3 +57,4 @@ cloudMesh: [
 ]
 bloom: false
 solarSystem: "nexus"
+visible: true
