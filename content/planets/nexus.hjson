@@ -22,10 +22,10 @@ iconColor: ffe06f
 bloom: false 
 solarSystem: "nexus"
 parent: "sun"
-accessible: true
+accessible: false
 visible: true
 orbitRadius: 15000000
-alwaysUnlocked: true
+alwaysUnlocked: false
 sectorSize: 0.1
 startSector: 0
 radius: 10
