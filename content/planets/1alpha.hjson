@@ -1,6 +1,6 @@
 name: "alpha"
 localizedName: "Alpha"
-parent: "nexus"
+parent: "0nexus"
 generator: "planet"
 iconColor: "A0C4FF"
 accessible: true
@@ -27,11 +27,11 @@ rules: {
 mesh: {
     type: NoiseMesh
     divisions: 3
-    planet: alpha
+    planet: 1alpha
     octaves: 4
     radius: 1.15
     color1: 010101
     color2: 020202
 }
-solarSystem:nexus
+solarSystem: 0nexus
 visible: true
