@@ -20,7 +20,7 @@ mesh: {
 }
 iconColor: ffe06f
 bloom: false 
-solarSystem: "nexus"
+solarSystem: "sun"
 accessible: false
 visible: true
 orbitRadius: 150000
