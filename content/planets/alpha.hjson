@@ -5,7 +5,7 @@ generator: "planet"
 iconColor: "A0C4FF"
 accessible: true
 alwaysUnlocked: true
-hasAtmosphere: true
+hasAtmosphere: false
 atmosphereColor: FF5500
 
 sectorSize: 0
