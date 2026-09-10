@@ -2,7 +2,7 @@ localizedName: Nexus
 mesh: {
  # Mesh type. Self-explanatory.
     type: SunMesh
-    planet: Nexus
+    planet: nexus
     divisions: 3
     octaves: 4
     persistence: 0.6
