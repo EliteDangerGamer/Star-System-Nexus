@@ -1,22 +1,32 @@
 localizedName: Nexus
 mesh: {
+ # Mesh type. Self-explanatory.
     type: SunMesh
+    planet: Nexus
     divisions: 3
     octaves: 4
     persistence: 0.6
-    scl: 0.5
+    scl: 1
     pow: 1
     mag: 0.5
     colorScale: 1
     colors: [
-        ffffff
+        ffe06f
+        ffe790
+        ffedae
+        fff8c8
+        ffe53b
     ]
 }
-iconColor: 000000
+iconColor: ffe06f
+bloom: false 
+solarSystem: "nexus"
+parent: "sun"
+accessible: true
 visible: true
-bloom: true
-solarSystem: nexus
-orbitRadius: 1000
-accessible: false
-orbitSpacing: 8
-visible: true
+orbitRadius: 15000000
+alwaysUnlocked: true
+sectorSize: 0.1
+startSector: 0
+radius: 10
+drawOrbit: false 
