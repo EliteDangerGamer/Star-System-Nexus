@@ -1,5 +1,5 @@
 name: terra
-parent: "sun"
+parent: "beta"
 orbitRadius: 50       
 orbitTime: 12000    
 orbitOffset: 15            
