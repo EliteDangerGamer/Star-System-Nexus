@@ -21,10 +21,10 @@ mesh: {
 iconColor: ffe06f
 bloom: false 
 solarSystem: "sun"
-accessible: false
+accessible: true
 visible: true
 orbitRadius: 150000
-alwaysUnlocked: false
+alwaysUnlocked: true
 sectorSize: 0.1
 startSector: 0
 radius: 10
