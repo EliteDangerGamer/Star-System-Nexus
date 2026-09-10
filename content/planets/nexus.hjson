@@ -22,6 +22,7 @@ iconColor: ffe06f
 bloom: false 
 solarSystem: "nexus"
 accessible: true
+parent: sun
 visible: true
 orbitRadius: 150000
 alwaysUnlocked: true
