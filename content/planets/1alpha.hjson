@@ -28,7 +28,7 @@ mesh: {
     type: NoiseMesh
     divisions: 3
     planet: 1alpha
-    octaves: 4
+    octaves: 2
     radius: 1.15
     color1: 010101
     color2: 020202
