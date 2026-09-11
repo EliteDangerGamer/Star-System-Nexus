@@ -21,9 +21,9 @@ mesh: {
 iconColor: ffe06f
 bloom: false 
 solarSystem: "0nexus"
-accessible: true
+accessible: false
 parent: sun
-visible: true
+visible: false
 orbitRadius: 150000
 alwaysUnlocked: true
 sectorSize: 0.1
