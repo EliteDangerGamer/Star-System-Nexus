@@ -17,7 +17,7 @@ mesh: {
         1E90FF
     ]
 }
-iconColor: ffe06f
+iconColor: 1F77B4
 bloom: false 
 solarSystem: "0nexus"
 parent: "1alpha"
