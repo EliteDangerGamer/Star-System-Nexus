@@ -1,0 +1,30 @@
+localizedName: Gamma
+mesh: {
+ # Mesh type. Self-explanatory.
+    type: SunMesh
+    planet: gamma
+    divisions: 3
+    octaves: 4
+    persistence: 0.6
+    scl: 1
+    pow: 1
+    mag: 0.5
+    colorScale: 1
+    colors: [
+        007FFF
+        1F77B4
+        00BFFF
+        1E90FF
+    ]
+}
+iconColor: ffe06f
+bloom: false 
+solarSystem: "0nexus"
+parent: "1alpha"
+accessible: true
+visible: true
+orbitRadius: 75
+alwaysUnlocked: true
+sectorSize: 0.1
+startSector: 0
+radius: 0.01
