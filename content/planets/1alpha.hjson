@@ -13,7 +13,7 @@ startSector: 0
 radius: 1.2
 
 orbitRadius: 1000000
-orbitTime: 1000000
+orbitTime: 100000000000000
 drawOrbit: false
 defaultCore: core-origin
 allowLaunchSchematics: true
