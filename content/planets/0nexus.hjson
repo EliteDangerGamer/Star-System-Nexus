@@ -24,7 +24,7 @@ solarSystem: "0nexus"
 accessible: false
 parent: sun
 visible: true
-orbitRadius: 150000000000000000
+orbitRadius: 1500000
 alwaysUnlocked: false
 sectorSize: 0.1
 startSector: 0
