@@ -12,7 +12,7 @@ sectorSize: 0
 startSector: 0
 radius: 1.2
 
-orbitRadius: 100000
+orbitRadius: 10000
 orbitTime: 100000000000000
 drawOrbit: false
 defaultCore: core-origin
