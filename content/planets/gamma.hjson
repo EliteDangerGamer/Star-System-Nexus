@@ -11,13 +11,13 @@ mesh: {
     mag: 0.5
     colorScale: 1
     colors: [
-        007FFF
+        0007FF
         1F77B4
         00BFFF
         1E90FF
     ]
 }
-iconColor: 1F77B4
+iconColor: 00BFFF
 bloom: false 
 solarSystem: "0nexus"
 parent: "1alpha"
