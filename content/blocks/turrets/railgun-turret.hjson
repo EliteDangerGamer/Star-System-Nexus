@@ -18,7 +18,7 @@ shootEffect: {
   lifetime: 20
   region: particle
 }
-range: 30
+range: 240
 consumes: {
 item: cadmium
   power: 15
@@ -34,7 +34,7 @@ shootType: {
   status: poison
   statusDuration:30
   width: 0.25
-  length: 30
+  length: 240
 }
 category: turret
 research: core-origin
