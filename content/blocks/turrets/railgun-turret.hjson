@@ -3,7 +3,7 @@ localizedName: Basic Railgun Turret
 health: 500
 size: 3
 description: A rudimentary turret, making use of electromagnitism to accelerate projectiles to high speeds. Requires power to operate.
-maxAmmo: 10
+maxAmmo: 25
 conductivePower: false
 playerControllable: true
 targetBlocks: true
@@ -20,10 +20,8 @@ shootEffect: {
 }
 range: 240
 consumes: {
-item: [
-cadmium/3
-]
-  power: 0.83333333333
+item: cadmium
+  power: 15
 }
 shootType: {
   type: RailBulletType
