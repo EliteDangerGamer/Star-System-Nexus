@@ -5,7 +5,7 @@
   size: 5
   health: 15000
   itemCapacity: 20000
-  unitType: augment
+  unitType: finalize
   unitCapModifier: 32
   alwaysUnlocked: false
   category: effect
@@ -14,6 +14,7 @@
     refined-silicon/5000
     logic-board/5000
     uranium/2500
+    cnt/1000
   ]
 research: core-evolution
 researchCostMultiplier: 0.06

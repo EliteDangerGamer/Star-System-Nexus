@@ -1,0 +1,45 @@
+type: flying
+lowAltitude: true
+flying: true
+itemCapacity: 70
+mineTier: 1
+name: finalize
+localizedName: Finalize
+speed: 3
+health: 750
+hitSize: 2
+buildSpeed: 1.5
+mineSpeed: 10.0
+playerControllable: true
+logicControllable: false
+rotateSpeed: 20
+immunities: [
+poison
+]
+abilities: [
+  {
+    type: "RepairFieldAbility"
+    range: 150
+    amount: 45
+    reload: 30
+  }
+]
+weapons: [
+  {
+    name: finalizeweapon
+    reload: 10
+    shootCone: 5
+    bullet: {
+      type: BasicBulletType
+      collidesTeam: true
+      healPercent: 10
+      collides: true
+      damage: 25
+      speed: 10
+      lifetime: 25
+      homingPower: 0.15
+      homingRange: 75
+      buildingDamageMultiplier: 0.01
+        }
+  }
+]
