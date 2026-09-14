@@ -8,13 +8,15 @@ conductivePower: false
 playerControllable: true
 targetBlocks: true
 ammoPerShot: 1
-shootSound: empty
-smokeEffect: none
+shootSound: railgun
+smokeEffect: shootSmall
 rotateSpeed: 5
 shootEffect: {
   type: ParticleEffect
-  particles: 0
-  lifetime: 0
+  line: true
+  particles: 12
+  lifetime: 20
+  region: particle
 }
 range: 30
 consumes: {
