@@ -10,7 +10,6 @@ targetBlocks: true
 ammoPerShot: 1
 shootSound: railgun
 smokeEffect: shootSmall
-rotateSpeed: 360
 shootEffect: {
   type: ParticleEffect
   line: true
