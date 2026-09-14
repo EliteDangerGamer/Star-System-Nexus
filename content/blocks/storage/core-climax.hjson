@@ -14,6 +14,7 @@
     refined-silicon/5000
     logic-board/5000
     uranium/2500
+    cnt/1000
   ]
 research: core-evolution
 researchCostMultiplier: 0.06
