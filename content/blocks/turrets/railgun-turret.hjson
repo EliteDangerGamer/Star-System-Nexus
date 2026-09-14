@@ -23,7 +23,7 @@ consumes: {
 item: [
 cadmium/3
 ]
-  power: 15
+  power: 0.83333333333
 }
 shootType: {
   type: RailBulletType
@@ -36,7 +36,7 @@ shootType: {
   status: poison
   statusDuration:30
   width: 0.25
-  length: 30
+  length: 240
 }
 category: turret
 research: core-origin
