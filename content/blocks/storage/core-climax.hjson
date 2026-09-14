@@ -1,0 +1,20 @@
+{
+  type: CoreBlock
+  name: core-climax
+  localizedName: "Core: Climax"
+  size: 5
+  health: 15000
+  itemCapacity: 20000
+  unitType: augment
+  unitCapModifier: 32
+  alwaysUnlocked: false
+  category: effect
+  requirements: [
+    iron/10000
+    refined-silicon/5000
+    logic-board/5000
+    uranium/2500
+  ]
+research: core-evolution
+researchCostMultiplier: 0.06
+}
