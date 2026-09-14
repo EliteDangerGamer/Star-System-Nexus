@@ -1,13 +1,13 @@
 type: Turret
 localizedName: Railgun Turret
 health: 256
-size: 1
-description: A small wall made from cadmium, poisons biological life. Note: needs to be connected to power (doesn't consume any).
-maxAmmo: 0
+size: 2
+description: A rudimentary turret, making use of electromagnitism to accelerate projectiles to high speeds. Requires power to operate.
+maxAmmo: 10
 conductivePower: true
-playerControllable: false
-targetBlocks: false
-ammoPerShot: 0
+playerControllable: true
+targetBlocks: true
+ammoPerShot: 1
 shootSound: empty
 smokeEffect: none
 rotateSpeed: 0
@@ -16,30 +16,30 @@ shootEffect: {
   particles: 0
   lifetime: 0
 }
-range: 32
+range: 64
 consumes: {
-  power: 5
+  power: 15
 }
 shootType: {
   type: BasicBulletType
-  speed: 0
-  lifetime: 1
+  speed: 15
+  lifetime: 5
   splashDamage: 1
-  splashDamageRadius: 32
-  splashDamagePierce: true
+  splashDamageRadius: 1
+  splashDamagePierce: false
   damage: 0
   status: poison
   statusDuration:30
   width: 0.00001
   length: 0.00001
 }
-category: defense
+category: turret
 research: iron-wall
 requirements: [
   cadmium/8
 ]
 researchCostMultiplier: 0.5
-rotate: false
+rotate: true
 shootCone: 360
 drawer: {
   type: DrawTurret
