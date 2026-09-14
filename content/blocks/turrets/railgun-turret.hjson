@@ -10,7 +10,7 @@ targetBlocks: true
 ammoPerShot: 1
 shootSound: railgun
 smokeEffect: shootSmall
-rotateSpeed: 5
+rotateSpeed: 360
 shootEffect: {
   type: ParticleEffect
   line: true
@@ -21,7 +21,7 @@ shootEffect: {
 range: 240
 consumes: {
 item: cadmium
-  power: 15
+  power: 0.8333333333
 }
 shootType: {
   type: RailBulletType
