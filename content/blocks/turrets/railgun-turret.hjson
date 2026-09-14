@@ -1,46 +1,50 @@
 type: Turret
-localizedName: Railgun Turret
-health: 256
-size: 2
+localizedName: Basic Railgun Turret
+health: 500
+size: 3
 description: A rudimentary turret, making use of electromagnitism to accelerate projectiles to high speeds. Requires power to operate.
 maxAmmo: 10
-conductivePower: true
+conductivePower: false
 playerControllable: true
 targetBlocks: true
 ammoPerShot: 1
 shootSound: empty
 smokeEffect: none
-rotateSpeed: 0
+rotateSpeed: 5
 shootEffect: {
   type: ParticleEffect
   particles: 0
   lifetime: 0
 }
-range: 64
+range: 30
 consumes: {
+item: [
+cadmium/3
+]
   power: 15
 }
 shootType: {
-  type: BasicBulletType
+  type: RailBulletType
   speed: 15
   lifetime: 5
-  splashDamage: 1
-  splashDamageRadius: 1
+  splashDamage: 0
+  splashDamageRadius: 0
   splashDamagePierce: false
-  damage: 0
+  damage: 50
   status: poison
   statusDuration:30
-  width: 0.00001
-  length: 0.00001
+  width: 0.25
+  length: 30
 }
 category: turret
-research: iron-wall
+research: core-origin
 requirements: [
-  cadmium/8
+  iron/50
+  steel/25
 ]
 researchCostMultiplier: 0.5
 rotate: true
-shootCone: 360
+shootCone: 0
 drawer: {
   type: DrawTurret
   basePrefix: empty
