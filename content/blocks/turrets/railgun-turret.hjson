@@ -18,7 +18,7 @@ shootEffect: {
   lifetime: 20
   region: particle
 }
-range: 30
+range: 240
 consumes: {
 item: [
 cadmium/3
