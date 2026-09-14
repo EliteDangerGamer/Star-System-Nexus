@@ -44,7 +44,7 @@ requirements: [
 ]
 researchCostMultiplier: 0.5
 rotate: true
-shootCone: 0
+shootCone: 1
 drawer: {
   type: DrawTurret
   basePrefix: empty
