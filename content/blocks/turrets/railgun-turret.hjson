@@ -28,8 +28,8 @@ shootType: {
   speed: 15
   lifetime: 5
   splashDamage: 10
-  splashDamageRadius: 5
-  splashDamagePierce: false
+  splashDamageRadius: 120
+  splashDamagePierce: true
   damage: 50
   status: poison
   statusDuration:30
