@@ -26,8 +26,8 @@ shootType: {
   type: RailBulletType
   speed: 15
   lifetime: 5
-  splashDamage: 0
-  splashDamageRadius: 0
+  splashDamage: 10
+  splashDamageRadius: 5
   splashDamagePierce: false
   damage: 50
   status: poison
