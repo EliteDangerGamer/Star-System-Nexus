@@ -8,6 +8,7 @@ conductivePower: false
 playerControllable: true
 targetBlocks: true
 ammoPerShot: 1
+reload: 60
 shootSound: railgun
 smokeEffect: shootSmall
 shootEffect: {
@@ -33,7 +34,6 @@ shootType: {
   status: poison
   statusDuration:30
   width: 0.25
-  length: 240
 }
 category: turret
 research: core-origin
