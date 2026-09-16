@@ -30,7 +30,7 @@ shootType: {
   splashDamage: 10
   splashDamageRadius: 40
   splashDamagePierce: false
-  damage: 50
+  damage: 100
   status: poison
   statusDuration:30
   width: 0.25
