@@ -29,7 +29,7 @@ shootType: {
   lifetime: 16
   splashDamage: 10
   splashDamageRadius: 40
-  splashDamagePierce: false
+  splashDamagePierce: true
   damage: 100
   status: poison
   statusDuration:30
