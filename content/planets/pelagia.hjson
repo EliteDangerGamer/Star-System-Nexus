@@ -1,0 +1,65 @@
+name: pelagia
+parent: "beta"
+orbitRadius: 55       
+orbitTime: 14000    
+orbitOffset: 17            
+rotateTime: 1500
+localizedName: Pelagia
+generator: planet
+sectorSize: 3
+radius: 1.3
+accessible: true
+startSector: 0
+mesh: [
+{
+  type: NoiseMesh
+  planet: pelagia
+  seed: 12345
+  divisions: 4
+  color1: 0077BE
+  color2: 006992
+  color3: 00A8E8
+  radius: 1.1
+  octaves: 3
+}
+]
+
+cloudMesh: [
+  {
+    type: HexSkyMesh
+    seed: 11
+    speed: 0.15
+    radius: 0.13
+    divisions: 5
+    color: AAAAAAB3
+    octaves: 2
+    persistence: 0.45
+    scale: 0.9
+    thresh: 0.38
+  }
+  {
+    type: HexSkyMesh
+    seed: 1
+    speed: 0.6
+    radius: 0.16
+    divisions: 5
+    color: CCCCCC80
+    octaves: 2
+    persistence: 0.45
+    scale: 1.0
+    thresh: 0.41
+  }
+]
+rules: {
+  defaultTeam: sharded
+  enemyTeam: blue
+}
+atmosphereColor: 448EE4
+hasAtmosphere: true
+alwaysUnlocked: true
+defaultCore: core-origin
+allowLaunchSchematics: true
+clearSectorOnLose: true
+allowLaunchToNumbered: true
+iconColor: 0077BE
+solarSystem: 0nexus
