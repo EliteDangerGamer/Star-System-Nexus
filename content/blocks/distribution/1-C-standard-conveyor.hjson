@@ -3,7 +3,7 @@ name: standard-conveyor
 localizedName: Standard Conveyor
 description: A more developed conveyor, capable of handling more items at a higher speed.
 category: distribution
-research: core-origin
+research: basic-conveyor
 speed: 0.33333333333333333333333333333333
 displayedSpeed: 20.0
 itemCapacity: 5
