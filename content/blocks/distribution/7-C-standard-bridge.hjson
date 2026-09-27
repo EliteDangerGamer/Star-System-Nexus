@@ -1,0 +1,15 @@
+type: ItemBridge
+name: basic-bridge
+localizedName: Standard Bridge
+health: 75
+size: 1
+requirements: [
+  iron/5
+  cadmium/2
+  ]
+category: distribution
+research: 6-C-basic-bridge
+range: 7
+transportTime: 2
+itemCapacity: 15
+researchCostMultiplier: 0.1
