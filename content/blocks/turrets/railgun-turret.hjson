@@ -4,6 +4,7 @@ health: 500
 size: 2
 description: A rudimentary turret, making use of electromagnitism to accelerate projectiles to high speeds. Requires power to operate.
 maxAmmo: 25
+itemCapacity: 25
 conductivePower: false
 playerControllable: true
 targetBlocks: true
