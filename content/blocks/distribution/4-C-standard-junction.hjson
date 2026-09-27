@@ -1,0 +1,12 @@
+type: Junction
+name: basic-junction
+localizedName: Standard Junction
+speed: 0.3333333333
+size: 1
+health: 75
+requirements: [
+  iron/5
+]
+category: distribution
+research: 3-C-basic-junction
+researchCostMultiplier: 0.1
