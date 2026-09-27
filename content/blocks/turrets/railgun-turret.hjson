@@ -1,4 +1,4 @@
-type: Turret
+type: ItemTurret
 localizedName: Basic Railgun Turret
 health: 500
 size: 2
