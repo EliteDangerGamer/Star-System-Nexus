@@ -11,6 +11,6 @@ health: 50
 requirements: [
   iron/1
 ]
-junctionReplacement: basic-junction
-bridgeReplacement: basic-bridge
+junctionReplacement: 3-C-basic-junction
+bridgeReplacement: 6-C-basic-bridge
 researchCostMultiplier: 0.1
