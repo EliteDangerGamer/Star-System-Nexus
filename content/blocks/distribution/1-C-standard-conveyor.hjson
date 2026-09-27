@@ -12,6 +12,6 @@ requirements: [
   iron/1
   aluminum/1
 ]
-junctionReplacement: standard-junction
-bridgeReplacement: standard-bridge
+junctionReplacement: 4-C-standard-junction
+bridgeReplacement: 7-C-standard-bridge
 researchCostMultiplier: 0.1
