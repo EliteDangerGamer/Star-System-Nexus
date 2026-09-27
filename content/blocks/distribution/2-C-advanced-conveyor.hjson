@@ -1,0 +1,18 @@
+type: StackConveyor
+name: advanced-conveyor
+localizedName: Advanced Conveyor
+description: A miniature mass driver allows this conveyor to carry stacks of items near the speed of sound.
+category: distribution
+research: standard-conveyor
+recharge: 1
+speed: 1
+displayedSpeed: 60.0
+itemCapacity: 30
+health: 50
+requirements: [
+  iron/1
+  aluminum/1
+]
+junctionReplacement: advanced-junction
+bridgeReplacement: advanced-bridge
+researchCostMultiplier: 0.1
