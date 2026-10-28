@@ -2,7 +2,7 @@ localizedName: Gamma
 mesh: {
  # Mesh type. Self-explanatory.
     type: SunMesh
-    planet: gamma
+    planet: 03-U-gamma
     divisions: 5
     octaves: 4
     persistence: 0.6
