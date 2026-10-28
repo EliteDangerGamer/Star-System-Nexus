@@ -33,5 +33,5 @@ mesh: {
     color1: 010101
     color2: 020202
 }
-solarSystem: 0nexus
+solarSystem: 00-U-nexus
 visible: true
