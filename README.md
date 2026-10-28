@@ -21,7 +21,7 @@ Coal - Mined
 Steel - Iron + Coal
 Sand - Mined
 Silicon - Sand + Coal (low efficiency) Quartz+Coal (high efficiency)
-Glass - Sand + Coal (low efficiency) Quartz (high efficiency)
+Glass - Sand + Coal (low efficiency) Quartz + cadmium (high efficiency)
 Graphite - Coal
 Electric Circuits - Silicon + Iron (low), Aluminum + silicon (medium), CNT + aluminum (high)
 Aluminum - mined
