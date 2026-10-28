@@ -1,6 +1,6 @@
 name: "alpha"
 localizedName: "Alpha"
-parent: "0nexus"
+parent: "00-U-nexus"
 generator: "planet"
 iconColor: "A0C4FF"
 accessible: true
