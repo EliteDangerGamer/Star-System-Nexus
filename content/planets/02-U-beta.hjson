@@ -20,8 +20,8 @@ mesh: {
 }
 iconColor: ffe06f
 bloom: false 
-solarSystem: "0nexus"
-parent: "1alpha"
+solarSystem: "00-U-nexus"
+parent: "01-U-alpha"
 accessible: true
 visible: true
 orbitRadius: 150
