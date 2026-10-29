@@ -5,7 +5,7 @@ Nexus is a trinary star system, consisting of a black hole, Neutron star, and st
 
 Alpha (α) is the black hole at the center, and Beta and Gamma orbit it, it has no planets, but could be captured if you're brave enough
 
-Beta (β) is the G-Type star orbiting Alpha, it has three planets and an orbital satelite, a lush planet with a moon, where nature poses a bigger threat than the enemies; a world made of water, with occasional islands; and a gas giant, where you have to build your land.
+Beta (β) is the G-Type star orbiting Alpha, it has three planets, a lush planet with a moon, where nature poses a bigger threat than the enemies; a world made of water, with occasional islands; and a gas giant with its two moons, where you have to build your land.
 
 Gamma (γ) is the Neutron star orbiting Alpha, it has a planet that once had life, but got too close to the star; A desert that is covered with lightning storms, with a moon that has ruins of technology to capture it; and a frozen wasteland, where the star is dimmer than Beta, and the land will melt without protection.
 
