@@ -2,7 +2,7 @@ localizedName: Nexus
 mesh: {
  # Mesh type. Self-explanatory.
     type: SunMesh
-    planet: 0nexus
+    planet: 00-U-nexus
     divisions: 3
     octaves: 4
     persistence: 0.6
@@ -20,7 +20,7 @@ mesh: {
 }
 iconColor: ffe06f
 bloom: false 
-solarSystem: "0nexus"
+solarSystem: "00-U-nexus"
 accessible: false
 parent: sun
 visible: true
