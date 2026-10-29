@@ -1,5 +1,5 @@
 name: pelagia
-parent: "beta"
+parent: "02-U-beta"
 orbitRadius: 55       
 orbitTime: 14000    
 orbitOffset: 17            
@@ -13,7 +13,7 @@ startSector: 0
 mesh: [
 {
   type: NoiseMesh
-  planet: pelagia
+  planet: 05-U-pelagia
   seed: 12345
   divisions: 4
   color1: 0077BE
@@ -62,4 +62,4 @@ allowLaunchSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 0077BE
-solarSystem: 0nexus
+solarSystem: 00-U-nexus

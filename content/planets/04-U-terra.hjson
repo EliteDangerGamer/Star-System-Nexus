@@ -1,5 +1,5 @@
 name: terra
-parent: "beta"
+parent: "02-U-beta"
 orbitRadius: 50       
 orbitTime: 12000    
 orbitOffset: 15            
@@ -13,7 +13,7 @@ startSector: 12
 mesh: [
 {
   type: NoiseMesh
-  planet: terra
+  planet: 04-U-terra
   seed: 12345
   divisions: 4
   color1: 4FAE19   
@@ -23,7 +23,7 @@ mesh: [
 }
 {
   type: NoiseMesh
-  planet: terra
+  planet: 04-U-terra
   divisions: 4
   seed: 12421
   radius: 1.1
@@ -35,7 +35,7 @@ mesh: [
 }
 {
   type: NoiseMesh
-  planet: terra
+  planet: 04-U-terra
   seed: 67890
   divisions: 4
   radius: 1.05
@@ -85,4 +85,4 @@ allowLaunchSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
-solarSystem: 0nexus
+solarSystem: 00-U-nexus

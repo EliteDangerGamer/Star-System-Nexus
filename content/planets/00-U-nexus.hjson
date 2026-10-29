@@ -1,8 +1,8 @@
-localizedName: Beta
+localizedName: Nexus
 mesh: {
  # Mesh type. Self-explanatory.
     type: SunMesh
-    planet: beta
+    planet: 00-U-nexus
     divisions: 3
     octaves: 4
     persistence: 0.6
@@ -20,12 +20,13 @@ mesh: {
 }
 iconColor: ffe06f
 bloom: false 
-solarSystem: "0nexus"
-parent: "1alpha"
-accessible: true
+solarSystem: "00-U-nexus"
+accessible: false
+parent: sun
 visible: true
-orbitRadius: 150
-alwaysUnlocked: true
+orbitRadius: 10000
+alwaysUnlocked: false
 sectorSize: 0.1
 startSector: 0
 radius: 10
+drawOrbit: false 
