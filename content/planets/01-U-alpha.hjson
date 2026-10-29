@@ -5,7 +5,7 @@ generator: "planet"
 iconColor: "A0C4FF"
 accessible: true
 alwaysUnlocked: true
-hasAtmosphere: false
+hasAtmosphere: true
 atmosphereColor: FF5500
 
 sectorSize: 0
@@ -27,7 +27,7 @@ rules: {
 mesh: {
     type: NoiseMesh
     divisions: 3
-    planet: 1alpha
+    planet: 01-U-alpha
     octaves: 2
     radius: 1.15
     color1: 010101
