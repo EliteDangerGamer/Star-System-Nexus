@@ -13,7 +13,7 @@ startSector: 0
 mesh: [
 {
   type: NoiseMesh
-  planet: 05-U-pelagia
+  planet: 06-U-pelagia
   seed: 12345
   divisions: 4
   color1: 0077BE
