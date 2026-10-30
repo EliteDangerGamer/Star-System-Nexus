@@ -2,15 +2,15 @@ name: "luna"
 localizedName: "Luna"
 parent: "04-U-terra"
 generator: "planet"
-iconColor: "006400"
+iconColor: "FFFFFF"
 accessible: true
 alwaysUnlocked: true
-hasAtmosphere: true
+hasAtmosphere: false
 atmosphereColor: FFFFFF
 
 sectorSize: 0
 startSector: 0
-radius: 1.2
+radius: 0.75
 
 orbitRadius: 10
 orbitTime: 1000
@@ -30,8 +30,8 @@ mesh: {
     planet: 05-U-luna
     octaves: 2
     radius: 0.75
-    color1: 006400
-    color2: dc2020
+    color1: ffffff
+    color2: fcfcfc
 }
 solarSystem: 00-U-nexus
 visible: true
