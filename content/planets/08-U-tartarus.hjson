@@ -7,7 +7,7 @@ rotateTime: 1800
 localizedName: Tartarus
 generator: planet
 sectorSize: 3
-radius: 0.55
+radius: 0.65
 accessible: true
 startSector: 12
 mesh: [
@@ -18,7 +18,7 @@ mesh: [
   divisions: 4
   color1: 383B39
   color2: 212121
-  radius: 0.55
+  radius: 0.65
   octaves: 3
 }
 {
@@ -26,7 +26,7 @@ mesh: [
   planet: 04-U-terra
   divisions: 4
   seed: 12421
-  radius: 0.55
+  radius: 0.65
   color1: F47209
   color2: E42217
   octaves: 3
