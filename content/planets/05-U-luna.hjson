@@ -10,9 +10,9 @@ atmosphereColor: FFFFFF
 
 sectorSize: 0
 startSector: 0
-radius: 0.75
+radius: 0.6
 
-orbitRadius: 2.5
+orbitRadius: 4
 orbitTime: 1000
 drawOrbit: false
 defaultCore: core-origin
@@ -29,7 +29,7 @@ mesh: {
     divisions: 4
     planet: 05-U-luna
     octaves: 2
-    radius: 0.75
+    radius: 0.6
     color1: ffffff
     color2: fcfcfc
 }
