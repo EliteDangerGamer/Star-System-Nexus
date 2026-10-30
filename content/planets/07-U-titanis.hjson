@@ -1,7 +1,7 @@
 name: titanis
 parent: "02-U-beta"
-orbitRadius: 50       
-orbitTime: 12000    
+orbitRadius: 75       
+orbitTime: 15000    
 orbitOffset: 15            
 rotateTime: 1800
 localizedName: Titanis
