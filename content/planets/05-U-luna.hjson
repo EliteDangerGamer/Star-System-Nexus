@@ -1,0 +1,37 @@
+name: "luna"
+localizedName: "Luna"
+parent: "04-U-terra"
+generator: "planet"
+iconColor: "FFFFFF"
+accessible: true
+alwaysUnlocked: true
+hasAtmosphere: false
+atmosphereColor: FFFFFF
+
+sectorSize: 0
+startSector: 0
+radius: 0.6
+
+orbitRadius: 4
+orbitTime: 1000
+drawOrbit: false
+defaultCore: core-origin
+allowLaunchSchematics: true
+clearSectorOnLose: true
+
+rules: {
+  defaultTeam: "sharded"
+  enemyTeam: "blue"
+}
+
+mesh: {
+    type: NoiseMesh
+    divisions: 4
+    planet: 05-U-luna
+    octaves: 2
+    radius: 0.6
+    color1: ffffff
+    color2: fcfcfc
+}
+solarSystem: 00-U-nexus
+visible: true

@@ -14,7 +14,7 @@
     cadmium/1500
   ]
  research: {
-  planet: terra
+  planet: 04-U-terra
   root: true
   name: Terra
   requiresUnlock: false
