@@ -30,7 +30,7 @@ mesh: [
     planet: 07-U-titanis
     seed: 12421
     divisions: 5
-    radius: 3.02
+    radius: 3.1
     octaves: 1
     persistence: 0.1
     mag: 0.1
@@ -44,11 +44,11 @@ mesh: [
     planet: 07-U-titanis
     seed: 67890
     divisions: 5
-    radius: 3.04
+    radius: 3.02
     octaves: 1
     persistence: 0.1
     mag: 0.1
-    threshold: 0.8
+    threshold: 0.3
     color1: D3A17E
     color2: F4E3D3
   }
