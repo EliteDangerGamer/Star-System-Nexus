@@ -1,6 +1,6 @@
 name: terra
 parent: "07-U-titanis"
-orbitRadius: 5       
+orbitRadius: 7.5       
 orbitTime: 12000    
 orbitOffset: 52            
 rotateTime: 1800
