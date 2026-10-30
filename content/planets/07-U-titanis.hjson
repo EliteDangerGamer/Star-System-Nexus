@@ -1,8 +1,8 @@
 name: titanis
-parent: "02-U-beta"
-orbitRadius: 75       
-orbitTime: 15000    
-orbitOffset: 15            
+parent: 02-U-beta
+orbitRadius: 75
+orbitTime: 15000
+orbitOffset: 15
 rotateTime: 1800
 localizedName: Titanis
 generator: planet
@@ -11,40 +11,45 @@ radius: 3
 accessible: true
 startSector: 12
 mesh: [
-{
-  type: NoiseMesh
-  planet: 07-U-titanis
-  seed: 12345
-  divisions: 4
-  color1: E2BF7D   
-  color2: F5E1B9
-  radius: 3
-  octaves: 1
-}
-{
-  type: NoiseMesh
-  planet: 07-U-titanis
-  divisions: 4
-  seed: 12421
-  radius: 3.05
-  color1: A3987A  
-  color2: D3A17E
-  octaves: 1
-  threshold: 0.5
-  persistence: 0.45
-}
-{
-  type: NoiseMesh
-  planet: 07-U-titanis
-  seed: 67890
-  divisions: 4
-  radius: 2.95
-  color1: D3A17E
-  color2: F4E3D3
-  octaves: 1
-  persistence: 0.25
-  threshold: 0.9
-}
+  // Base atmosphere/background sphere layer
+  {
+    type: NoiseMesh
+    planet: 07-U-titanis
+    seed: 12345
+    divisions: 5
+    color1: E2BF7D
+    color2: F5E1B9
+    radius: 3.0
+    octaves: 1
+    persistence: 0.5
+  }
+  // Primary gas band layer (wide bands)
+  {
+    type: NoiseMesh
+    planet: 07-U-titanis
+    seed: 12421
+    divisions: 5
+    radius: 3.02
+    color1: A3987A
+    color2: D3A17E
+    octaves: 2
+    persistence: 0.3
+    scale: 0.8
+    mag: 1.2
+  }
+  // Secondary lighter/darker accent bands
+  {
+    type: NoiseMesh
+    planet: 07-U-titanis
+    seed: 67890
+    divisions: 5
+    radius: 3.04
+    color1: D3A17E
+    color2: F4E3D3
+    octaves: 1
+    persistence: 0.2
+    threshold: 0.4
+  }
 ]
 rules: {
   defaultTeam: sharded
@@ -57,5 +62,5 @@ defaultCore: core-origin
 allowLaunchSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
-iconColor: E2BF7D 
+iconColor: E2BF7D
 solarSystem: 00-U-nexus
