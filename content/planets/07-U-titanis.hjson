@@ -57,5 +57,5 @@ defaultCore: core-origin
 allowLaunchSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
-iconColor: 66FF00
+iconColor: E2BF7D 
 solarSystem: 00-U-nexus
