@@ -43,7 +43,7 @@ mesh: [
     type: NoiseMesh
     planet: 07-U-titanis
     seed: 67890
-    divisions: 55
+    divisions: 5
     radius: 3.04
     octaves: 1
     persistence: 0.1
