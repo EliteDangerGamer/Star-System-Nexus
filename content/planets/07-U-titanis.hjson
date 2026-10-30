@@ -34,7 +34,7 @@ mesh: [
     octaves: 1
     persistence: 0.1
     mag: 0.1
-    threshold: 0.4
+    threshold: 0.2
     color1: A3987A
     color2: D3A17E
   }
@@ -48,7 +48,7 @@ mesh: [
     octaves: 1
     persistence: 0.1
     mag: 0.1
-    threshold: 0.3
+    threshold: 0.1
     color1: D3A17E
     color2: F4E3D3
   }
@@ -62,7 +62,7 @@ cloudMesh: {
   octaves: 1
   persistence: 0.1
   mag: 0.05
-  threshold: 0.3
+  threshold: 0.05
   color1: F5E1B9
   color2: E2BF7D
 }
