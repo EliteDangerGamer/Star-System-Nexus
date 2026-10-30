@@ -26,7 +26,7 @@ rules: {
 
 mesh: {
     type: NoiseMesh
-    divisions: 3
+    divisions: 5
     planet: 05-U-luna
     octaves: 2
     radius: 0.75
