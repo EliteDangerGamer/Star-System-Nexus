@@ -27,7 +27,7 @@ mesh: [
   planet: 07-U-titanis
   divisions: 4
   seed: 12421
-  radius: 3
+  radius: 3.05
   color1: A3987A  
   color2: D3A17E
   octaves: 1
