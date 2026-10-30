@@ -19,7 +19,8 @@ mesh: [
   color1: E2BF7D   
   color2: F5E1B9
   radius: 3
-  octaves: 3
+  octaves: 1
+  scale: 0.1
 }
 {
   type: NoiseMesh
@@ -29,9 +30,10 @@ mesh: [
   radius: 3
   color1: A3987A  
   color2: D3A17E
-  octaves: 3
+  octaves: 1
   threshold: 0.5
   persistence: 0.45
+  scale: 0.05
 }
 {
   type: NoiseMesh
@@ -41,9 +43,10 @@ mesh: [
   radius: 2.95
   color1: D3A17E
   color2: F4E3D3
-  octaves: 2
+  octaves: 1
   persistence: 0.25
   threshold: 0.9
+  scale: 0.02
 }
 ]
 rules: {
