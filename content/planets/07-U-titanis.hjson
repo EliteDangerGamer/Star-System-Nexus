@@ -16,8 +16,8 @@ mesh: [
   planet: 07-U-titanis
   seed: 12345
   divisions: 4
-  color1: 4FAE19   
-  color2: 2E8B57
+  color1: E2BF7D   
+  color2: F5E1B9
   radius: 3
   octaves: 3
 }
@@ -39,8 +39,8 @@ mesh: [
   seed: 67890
   divisions: 4
   radius: 2.95
-  color1: AAAAAA
-  color2: CCCCCC
+  color1: D3A17E
+  color2: F4E3D3
   octaves: 2
   persistence: 0.25
   threshold: 0.9
