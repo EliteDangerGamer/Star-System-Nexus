@@ -1,0 +1,76 @@
+name: terra
+parent: "07-U-titanis"
+orbitRadius: 10       
+orbitTime: 12000    
+orbitOffset: 86            
+rotateTime: 1800
+localizedName: Amanita
+generator: planet
+sectorSize: 3
+radius: 0.63
+accessible: true
+startSector: 12
+mesh: [
+{
+  type: NoiseMesh
+  planet: 04-U-terra
+  seed: 12345
+  divisions: 4
+  color1: EED202
+  color2: ECFF00
+  radius: 0.65
+  octaves: 3
+}
+{
+  type: NoiseMesh
+  planet: 04-U-terra
+  divisions: 4
+  seed: 12421
+  radius: 0.63
+  color1: 61DE2A
+  color2: 2AC0DE
+  octaves: 3
+  threshold: 0.2
+  persistence: 0.45
+}
+]
+
+cloudMesh: [
+  {
+    type: HexSkyMesh
+    seed: 11
+    speed: 0.15
+    radius: 0.9
+    divisions: 5
+    color: EFEE5BB3
+    octaves: 2
+    persistence: 0.45
+    scale: 0.9
+    thresh: 0.45
+  }
+  {
+    type: HexSkyMesh
+    seed: 1
+    speed: 0.6
+    radius: 1
+    divisions: 5
+    color: F2EA5C80
+    octaves: 2
+    persistence: 0.45
+    scale: 1.0
+    thresh: 0.5
+  }
+]
+rules: {
+  defaultTeam: sharded
+  enemyTeam: blue
+}
+atmosphereColor: 61DE2A
+hasAtmosphere: true
+alwaysUnlocked: true
+defaultCore: core-origin
+allowLaunchSchematics: true
+clearSectorOnLose: true
+allowLaunchToNumbered: true
+iconColor: 61DE2A
+solarSystem: 00-U-nexus
