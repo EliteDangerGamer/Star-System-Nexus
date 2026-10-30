@@ -2,7 +2,7 @@ name: "luna"
 localizedName: "Luna"
 parent: "04-U-terra"
 generator: "planet"
-iconColor: ""
+iconColor: "006400"
 accessible: true
 alwaysUnlocked: true
 hasAtmosphere: true
