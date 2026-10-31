@@ -14,7 +14,6 @@
     cadmium/1500
   ]
  research: {
-  planet: "00-U-nexus", "01-U-alpha", "02-U-beta", "03-U-gamma", "04-U-terra", "05-U-luna", "06-U-pelagia", "07-U-titanis", "08-U-tartarus", "09-U-amanita"
   root: true
   name: Nexus
   requiresUnlock: false
