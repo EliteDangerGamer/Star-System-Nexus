@@ -33,8 +33,8 @@ mesh: [
     radius: 3.1
     octaves: 1
     persistence: 0.1
-    mag: 0.05
-    threshold: 0.8
+    mag: 0.1
+    threshold: 0.4
     color1: A3987A
     color2: D3A17E
   }
@@ -47,8 +47,8 @@ mesh: [
     radius: 3.2
     octaves: 1
     persistence: 0.1
-    mag: 0.05
-    threshold: 0.7
+    mag: 0.1
+    threshold: 0.5
     color1: D3A17E
     color2: F4E3D3
   }
@@ -61,8 +61,8 @@ cloudMesh: {
   radius: 3.15
   octaves: 1
   persistence: 0.1
-  mag: 0.05
-  threshold: 0.65
+  mag: 0.1
+  threshold: 0.3
   color1: F5E1B9
   color2: E2BF7D
 }
