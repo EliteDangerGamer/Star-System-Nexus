@@ -1,8 +1,8 @@
 name: terra
 parent: "07-U-titanis"
 orbitRadius: 10       
-orbitTime: 12000    
-orbitOffset: 86            
+orbitTime: 120
+orbitOffset: 116            
 rotateTime: 1800
 localizedName: Amanita
 generator: planet
