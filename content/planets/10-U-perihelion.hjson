@@ -4,7 +4,7 @@ orbitRadius: 15
 orbitTime: 360    
 orbitOffset: 15            
 rotateTime: 360
-localizedName: Terra
+localizedName: Perihelion
 generator: planet
 sectorSize: 3
 radius: 0.9
