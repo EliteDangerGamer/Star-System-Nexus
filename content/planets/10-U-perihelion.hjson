@@ -30,7 +30,7 @@ mesh: [
   color1: B22222
   color2: E25822
   octaves: 3
-  threshold: 0.5
+  threshold: 0.9
   persistence: 0.45
 }
 ]
