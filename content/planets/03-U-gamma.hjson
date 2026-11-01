@@ -24,6 +24,7 @@ parent: "01-U-alpha"
 accessible: true
 visible: true
 orbitRadius: 75
+orbitOffset: 127
 alwaysUnlocked: true
 sectorSize: 0.1
 startSector: 0

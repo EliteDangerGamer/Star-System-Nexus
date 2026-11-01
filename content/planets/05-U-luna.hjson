@@ -8,7 +8,7 @@ alwaysUnlocked: true
 hasAtmosphere: false
 atmosphereColor: FFFFFF
 
-sectorSize: 0
+sectorSize: 3
 startSector: 0
 radius: 0.6
 
