@@ -1,0 +1,88 @@
+name: terra
+parent: "03-U-gamma"
+orbitRadius: 15       
+orbitTime: 360    
+orbitOffset: 15            
+rotateTime: 360
+localizedName: Terra
+generator: planet
+sectorSize: 3
+radius: 0.9
+accessible: true
+startSector: 12
+mesh: [
+{
+  type: NoiseMesh
+  planet: 04-U-terra
+  seed: 12345
+  divisions: 4
+  color1: 4FAE19   
+  color2: 2E8B57
+  radius: 1.1
+  octaves: 3
+}
+{
+  type: NoiseMesh
+  planet: 04-U-terra
+  divisions: 4
+  seed: 12421
+  radius: 1.1
+  color1: f9e7c6  
+  color2: 
+  octaves: 3
+  threshold: 0.5
+  persistence: 0.45
+}
+{
+  type: NoiseMesh
+  planet: 04-U-terra
+  seed: 67890
+  divisions: 4
+  radius: 1.05
+  color1: AAAAAA
+  color2: CCCCCC
+  octaves: 2
+  persistence: 0.25
+  threshold: 0.9
+}
+]
+
+cloudMesh: [
+  {
+    type: HexSkyMesh
+    seed: 11
+    speed: 0.15
+    radius: 0.13
+    divisions: 5
+    color: AA4203B3
+    octaves: 2
+    persistence: 0.45
+    scale: 0.9
+    thresh: 0.38
+  }
+  {
+    type: HexSkyMesh
+    seed: 1
+    speed: 0.6
+    radius: 0.16
+    divisions: 5
+    color: FBB74180
+    octaves: 2
+    persistence: 0.45
+    scale: 1.0
+    thresh: 0.41
+  }
+]
+rules: {
+  defaultTeam: sharded
+  enemyTeam: blue
+}
+atmosphereColor: AA4203
+hasAtmosphere: true
+alwaysUnlocked: true
+defaultCore: core-origin
+allowLaunchSchematics: true
+clearSectorOnLose: true
+allowLaunchToNumbered: true
+iconColor: AA4203
+solarSystem: 00-U-nexus
