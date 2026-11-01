@@ -18,7 +18,7 @@ mesh: [
   divisions: 4
   color1: f9e7c6
   color2: B1A69B
-  radius: 1.1
+  radius: 0.9
   octaves: 3
 }
 {
