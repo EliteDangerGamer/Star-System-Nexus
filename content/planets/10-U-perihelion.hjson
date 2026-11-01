@@ -28,22 +28,10 @@ mesh: [
   seed: 12421
   radius: 1.1
   color1: f9e7c6  
-  color2: 
+  color2: B1A69B
   octaves: 3
   threshold: 0.5
   persistence: 0.45
-}
-{
-  type: NoiseMesh
-  planet: 04-U-terra
-  seed: 67890
-  divisions: 4
-  radius: 1.05
-  color1: AAAAAA
-  color2: CCCCCC
-  octaves: 2
-  persistence: 0.25
-  threshold: 0.9
 }
 ]
 
