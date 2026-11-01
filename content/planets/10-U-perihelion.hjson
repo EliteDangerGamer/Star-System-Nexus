@@ -16,8 +16,8 @@ mesh: [
   planet: 04-U-terra
   seed: 12345
   divisions: 4
-  color1: 4FAE19   
-  color2: 2E8B57
+  color1: f9e7c6
+  color2: B1A69B
   radius: 1.1
   octaves: 3
 }
@@ -26,47 +26,20 @@ mesh: [
   planet: 04-U-terra
   divisions: 4
   seed: 12421
-  radius: 1.1
-  color1: f9e7c6  
-  color2: B1A69B
+  radius: 0.9
+  color1: B22222
+  color2: E25822
   octaves: 3
   threshold: 0.5
   persistence: 0.45
 }
-]
-
-cloudMesh: [
-  {
-    type: HexSkyMesh
-    seed: 11
-    speed: 0.15
-    radius: 0.13
-    divisions: 5
-    color: AA4203B3
-    octaves: 2
-    persistence: 0.45
-    scale: 0.9
-    thresh: 0.38
-  }
-  {
-    type: HexSkyMesh
-    seed: 1
-    speed: 0.6
-    radius: 0.16
-    divisions: 5
-    color: FBB74180
-    octaves: 2
-    persistence: 0.45
-    scale: 1.0
-    thresh: 0.41
-  }
 ]
 rules: {
   defaultTeam: sharded
   enemyTeam: blue
 }
 atmosphereColor: AA4203
-hasAtmosphere: true
+hasAtmosphere: false
 alwaysUnlocked: true
 defaultCore: core-origin
 allowLaunchSchematics: true
